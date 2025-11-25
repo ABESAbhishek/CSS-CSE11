@@ -1,0 +1,11 @@
+img{    
+    width:150px;
+    height:150px;
+    style:"float:left"; 
+    display:inline;     
+}
+p{
+    font-size: 20px;
+    color: rgb(82, 82, 141);
+    display:inline;
+}
